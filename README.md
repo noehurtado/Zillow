@@ -37,7 +37,7 @@ Improving Zestimate's accuracy will enhance consumer trust and provide more reli
 ### Data Preprocessing
 - Data Cleaning: Addressed missing and inconsistent values.
 - Feature Engineering:
-  - Imputed missing values using KNN.
+  - Imputed missing values using KNN and Web Scrapping. 
   - Scaled data using StandardScaler.
   - Selected important features using the feature_importances_ attribute from LightGBM.
 ### Exploratory Data Analysis (EDA)
