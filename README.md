@@ -28,9 +28,9 @@ Improving Zestimate's accuracy will enhance consumer trust and provide more reli
 
 ## 3. Dataset
 
-Source: Zillow and Kaggle competition data.
-Size: Over 2.9 million rows and 58 features.
-Features: Includes property size, location, year of construction, tax-related information, and more.
+- Source: Zillow and Kaggle competition data.
+- Size: Over 2.9 million rows and 58 features.
+- Features: +50 features, including property size, location, year of construction, tax-related information, etc.
 
 ## 4. Methodology
 
