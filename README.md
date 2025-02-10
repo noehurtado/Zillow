@@ -40,16 +40,16 @@ Improving Zestimate's accuracy will enhance consumer trust and provide more reli
   - Imputed missing values using KNN.
   - Scaled data using StandardScaler.
   - Selected important features using the feature_importances_ attribute from LightGBM.
-- Exploratory Data Analysis (EDA)
-  - Identified key factors influencing property values, such as location, property size, and year of construction.
-  - Analyzed regional variability and challenges arising from the high number of missing values.
-- Model Training
-  - Algorithms Tested:
-    - Linear Regression
-    - XGBoost
-    - CatBoost
-    - LightGBM
-    - Decision Trees
+### Exploratory Data Analysis (EDA)
+- Identified key factors influencing property values, such as location, property size, and year of construction.
+- Analyzed regional variability and challenges arising from the high number of missing values.
+### Model Training
+- Algorithms Tested:
+  - Linear Regression
+  - XGBoost
+  - CatBoost
+  - LightGBM
+  - Decision Trees
 - Final Model: An ensemble of XGBoost, CatBoost, and LightGBM, optimized for minimizing the Mean Absolute Error (MAE) of logarithmic error predictions.
 
 ## 5. Key Findings
